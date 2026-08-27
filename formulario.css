@@ -1,0 +1,30 @@
+#nome {
+    font-family: Arial, sans-serif;
+    top: 10px;    
+    left: 10px; 
+}
+
+#email {
+    font-family: Arial, sans-serif;   
+    top: 50px;
+    left: 100px;
+}
+
+#assunto {
+    font-family: Arial, sans-serif;
+    top: 50px;
+    left: 100px;
+}
+
+#mensagem {
+    font-family: Arial, sans-serif;
+    top: 70px;
+    left: 100px;
+}
+
+#enviar {
+    font-family: Arial, sans-serif;
+    top: 90px;
+    left: 100px;
+}
+
